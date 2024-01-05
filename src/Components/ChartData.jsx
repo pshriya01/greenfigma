@@ -44,7 +44,7 @@ const chartData = {
             Supplier: 'Orlife Healthcare',
             Emissions: 522,
             Revenue: 464464,
-            ER: 17,
+            ER: 17 ,
           },
           {
             Date: '11/8/23',
